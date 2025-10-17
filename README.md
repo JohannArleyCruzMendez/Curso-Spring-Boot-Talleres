@@ -6,7 +6,7 @@
 
 ## 📚 Índice de Talleres
 
-* **[Taller 01: Comportamientos del Contenedor IoC](./taller-01-comportamientos-ioc/)**
+* ***[Taller 01: Comportamientos del Contenedor IoC](./taller-01-comportamientos-ioc/)**
   * **Conceptos clave:** Ciclo de vida de los Beans, Scopes (`singleton`, `prototype`), Inyección de Dependencias (`@Qualifier`, `@Primary`) y Dependencias Circulares.
 
 * **[Taller 02: (Próximamente)](./) (se añadirá el enlace al crearlo)**
