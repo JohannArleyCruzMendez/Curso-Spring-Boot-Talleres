@@ -43,10 +43,8 @@ Para corregir este comportamiento, se inyectó un `ObjectProvider<ShoppingCart>`
 <p>La siguiente captura de pantalla de la consola muestra el resultado de la simulación corregida. Se puede observar que los IDs de instancia (<code>identityHashCode</code>) de los carritos para el "Usuario 1" y el "Usuario 2" son completamente diferentes, lo que demuestra que se crearon dos objetos distintos.</p>
 
 <p align="center">
-
-
-
 </p>
+<img width="508" height="427" alt="evidencia" src="https://github.com/user-attachments/assets/8d1aebe0-def2-4686-80d1-b8cd86c9d11a" />
 
 <p align="center">
   <em>Evidencia de la ejecución del Punto 2, mostrando la creación de carritos con IDs distintos para cada usuario.</em>
