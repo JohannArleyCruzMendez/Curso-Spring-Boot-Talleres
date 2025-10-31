@@ -11,7 +11,7 @@
 
 * ***[Taller 01: Comportamientos del Contenedor IoC](./taller-01-comportamientos-ioc/)**
   * **Conceptos clave:** Ciclo de vida de los Beans, Scopes (`singleton`, `prototype`), Inyección de Dependencias (`@Qualifier`, `@Primary`) y Dependencias Circulares.
- ### *Taller 02: Consumo de API*
-**Conceptos clave:** Consumo de APIs (REST), RestTemplate, WebClient, Peticiones GET y POST, Mapeo de JSON (DTOs), Autenticación (API Key).
+* ***[Taller 02: Consumo de API](./taller-02-consumo-api/)**
+  * **Conceptos clave:** Consumo de APIs (REST), RestTemplate, WebClient, Peticiones GET y POST, Mapeo de JSON (DTOs), Autenticación (API Key).
 
 
